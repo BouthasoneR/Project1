@@ -1,6 +1,13 @@
 # Project1
 JWKS server
 
+# FILES
+// main file 
+app.py
+
+// test coverage file
+test_app.py
+
 # COMMANDS
 pytest --cov=app --cov-report term-missing
 
